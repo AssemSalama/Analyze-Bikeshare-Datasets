@@ -1,2 +1,2 @@
 # Analyze-Bikeshare-Datasets
-First stone.
+In this project, you will use Python to explore data for three major cities in the United States, Chicago, New York City, and Washington, related to bike sharing systems. Through computing descriptive statistics, you will write code to import the data and respond to interesting questions about it. In order to create an interactive experience in the terminal to present these statistics, you will also write a script that takes in raw input.
